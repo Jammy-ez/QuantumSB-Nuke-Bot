@@ -9,4 +9,4 @@
 # Notes
 1) Use silent mode if you wish to not be banned or you want to be discreet about it
 2) This is not a token logger. Go through the code if you want to see for yourself
-3) You can get banned for using this, but its very rare. Stil, use at your own risk
+3) You can get banned for using this, but its very rare. Still, use at your own risk
